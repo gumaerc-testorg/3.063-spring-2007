@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e8f075b7-2fa7-f6dd-e7b9-64d0f7223b72
 ---
@@ -76,7 +79,7 @@ Scattering; Zimm plots ([PDF - 1.1 MB]({{< baseurl >}}/resources/lec6_07))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Glass transition temperature Tg ([PDF]({{< baseurl >}}/resources/lec7_07))
+Glass transition temperature T{{< sub "g" >}} ([PDF]({{< baseurl >}}/resources/lec7_07))
 {{< tdclose >}}
 
 {{< trclose >}}
