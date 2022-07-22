@@ -5,6 +5,7 @@ file: /courses/3-063-polymer-physics-spring-2007/ca955b85c36f75b085793dc6afcb0b0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps2.pdf
 uid: ca955b85-c36f-75b0-8579-3dc6afcb0b0a
 ---
 Problem Set 2.
-
