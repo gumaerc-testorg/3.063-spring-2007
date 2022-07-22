@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides information about the course textbook,
+  assignments, exams, grading, and the course schedule.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 65dfe5a7-4284-366e-69cf-90d4dd24d820
 ---
@@ -190,7 +194,7 @@ Scattering; Zimm plots
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Glass transition temperature Tg
+Glass transition temperature T{{< sub "g" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
