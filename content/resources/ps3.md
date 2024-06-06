@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set 3.
 file: /courses/3-063-polymer-physics-spring-2007/f43ee0d7cb195cd7a2d4e8dfa91d2dee_ps3.pdf
+file_size: 55408
 file_type: application/pdf
 learning_resource_types:
 - Assignments
