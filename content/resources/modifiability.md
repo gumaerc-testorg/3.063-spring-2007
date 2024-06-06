@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: "OLEDs: Modifiability and Applications," by
   Jill A. Rowehl'
 file: /courses/3-063-polymer-physics-spring-2007/bd39f3fd710cc018fa50c3dd663fe253_modifiability.pdf
+file_size: 94868
 file_type: application/pdf
 learning_resource_types:
 - Assignments
