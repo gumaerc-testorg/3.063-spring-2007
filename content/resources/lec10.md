@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides about self organization, competing interactions, free
   energy landscape, order formation processes, selection of symmetries, and characteristic
   lengths.
-file: /courses/3-063-polymer-physics-spring-2007/0db0101967405853d914614db2c5e414_lec10.pdf
+file: /ol-ocw-studio-app/courses/3-063-polymer-physics-spring-2007/0db0101967405853d914614db2c5e414_lec10.pdf
 file_size: 2016363
 file_type: application/pdf
 learning_resource_types:
