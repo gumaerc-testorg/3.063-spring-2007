@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and guidelines for the course essay assignment.
-file: /courses/3-063-polymer-physics-spring-2007/ad709df9c12e2bffbc280d99b2fcf758_report.pdf
+file: /ol-ocw-studio-app/courses/3-063-polymer-physics-spring-2007/ad709df9c12e2bffbc280d99b2fcf758_report.pdf
 file_size: 16969
 file_type: application/pdf
 learning_resource_types:
