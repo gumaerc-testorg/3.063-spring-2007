@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 4.
-file: /courses/3-063-polymer-physics-spring-2007/eb848dc1d2848335a9eb2d44e0c42255_ps4.pdf
+file: /ol-ocw-studio-app/courses/3-063-polymer-physics-spring-2007/eb848dc1d2848335a9eb2d44e0c42255_ps4.pdf
 file_size: 161559
 file_type: application/pdf
 learning_resource_types:
